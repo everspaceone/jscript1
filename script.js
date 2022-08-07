@@ -12,5 +12,5 @@ var misol4 = prompt('misolni yeching: 25 * 625 = ?')
 console.log('Misol 4: ' + '25 * 625=', 25 * 625 + ' Sizning javob: ' + misol1)
 var misol5 = prompt('qoldoqni aniqlang: 188 % 9 = ?')
 console.log('Misol 5: ' + '188 % 9 =', 188 % 9 + ' Sizning javob: ' + misol1)
-var finish = ('Consolni oching')
+
 
